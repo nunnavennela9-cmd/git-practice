@@ -1,3 +1,4 @@
 Hello Git 
 I am learning Git
 Edited directly on GitHub
+This is a new feature 
